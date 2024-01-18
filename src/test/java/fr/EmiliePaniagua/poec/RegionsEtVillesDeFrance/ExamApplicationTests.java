@@ -1,4 +1,4 @@
-package fr.EmiliePaniagua.poec.exam;
+package fr.EmiliePaniagua.poec.RegionsEtVillesDeFrance;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
